@@ -3,5 +3,5 @@ Aplicação JSF para iniciantes
 
 Importar projeto maven no eclipse
 
-      mvn tomcat7:run
+      mvn tomcat7:run-war
       
